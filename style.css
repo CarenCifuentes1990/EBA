@@ -1,0 +1,37 @@
+.c1{
+	background: black;
+}
+p,span{
+	color: #fff;
+}
+.c2{
+	background: #17254C;
+	text-align: center;
+}
+.blanco{
+	color: #fff;
+}
+.boton{
+	width: 300px;
+	height: 90px;
+	background: #229C36;
+	border-radius: 10px;
+	text-align: center;
+}
+.negro{
+	color: black;
+}
+.boton1{
+	width: 120px;
+	height: 50px;
+	background: #229C36;
+	border-radius: 50px;
+	text-align: center;
+}
+.c4{
+	background: gray;
+}
+.co1{
+	margin-top: 100px;
+	margin-bottom: 100px;
+} 
